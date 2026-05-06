@@ -117,7 +117,7 @@ Continue in the notebook with the applied examples section.
 
 ## 🎯 Wrap-Up
 
-**Key Takeaways:**
+**Key Concept:**
 1. A good visualisation starts with a clear question — "What am I trying to show?" — before touching any code.
 2. Matplotlib gives you control; Seaborn gives you speed for statistical graphics. Use both.
 3. Perception principles (pre-attentive attributes, colour, alignment) are not just aesthetics — they determine whether your audience understands your chart in 5 seconds or misreads it entirely.
